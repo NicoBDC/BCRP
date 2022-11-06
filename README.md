@@ -1,6 +1,5 @@
 # BCRP
-2023 University Extension Course
-Advanced Economics
+2023 University Extension Course -- Advanced Economics
 ___
 
 **GitHub Repository**: [https://github.com/DTJCML/BCRP](https://github.com/DTJCML/BCRP)
