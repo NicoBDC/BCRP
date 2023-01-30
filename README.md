@@ -1,11 +1,11 @@
 # BCRP
-2023 University Extension Course - Advanced Economics
+2023 University Extension Course - High Dimensional Econometrics
 ___
 
 **GitHub Repository**: [https://github.com/DTJCML/BCRP](https://github.com/DTJCML/BCRP)
 
 #### <ins>Description</ins>
-This repository corresponds to [David Tomás Jacho-Chávez](https://www.davidjachochavez.org)' module on '*Bid Data Econometrics*' for the 2023 University Extension Course at the [Banco Central de Reserva del Perú](https://www.bcrp.gob.pe/).
+This repository corresponds to [David Tomás Jacho-Chávez](https://www.davidjachochavez.org)' module on '*High Dimensional Econometrics*' for the 2023 [University Extension Course](https://mucen.bcrp.gob.pe/cursos_extension/) at the [Banco Central de Reserva del Perú](https://www.bcrp.gob.pe/).
 
 
 #### <ins>Disclaimer</ins>
