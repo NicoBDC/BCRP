@@ -15,6 +15,6 @@ All the materials in this repository are taken from these sources and the origin
 2. Bruce Hansen's '**[Econometrics](https://www.ssc.wisc.edu/~bhansen/econometrics/)**' online textbook.
 3. Various chapters of '**[An Introduction to Statistical Learning: With Applications in R](https://github.com/tpn/pdfs/blob/master/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20(ISLR%20Seventh%20Printing).pdf)**' book by Gareth James, Daniela Witten, Trevor Hastie and Rob Tibshirani.
 4. David Drukker and Di Lu's '**[An introduction to the lasso in Stata](https://blog.stata.com/2019/09/09/an-introduction-to-the-lasso-in-stata/)**.'
-5. StataCorp. 2021. '**[Stata Statistical Software: Release 17](https://www.stata.com/manuals/u.pdf)**'. College Station, TX: StataCorp LLC.
+5. StataCorp. 2021. '**[Stata Statistical Software: Release 17](https://www.stata.com/manuals/u.pdf)**.' College Station, TX: StataCorp LLC.
 
 ***
